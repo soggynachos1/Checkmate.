@@ -1,0 +1,2 @@
+# Checkmate.
+Chess software project
